@@ -111,7 +111,7 @@ This project was developed as part of a Java Case Study to demonstrate:
 
 ## 👨‍💻 Author
 
-**Yash Badge**  
+**Yashodeep Badge**  
 BE Computer Engineering  
 
 ---
